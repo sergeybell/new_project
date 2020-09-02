@@ -3,7 +3,7 @@
 #
 # Beam direction 1 (clockwise or for beam in blue ring)/-1 (counter-clockwise or for beam in red ring)
 $BV_FLAG=1;
-
+#test
 # Kinetic energy, MeV/u
 $W=4500.;
 $K1E=0;
@@ -504,8 +504,8 @@ Initial:            BetaX[cm]=60.   BetaY[cm]=60.
                     AlfaX=0.  AlfaY=0.
                     DispX[cm]=0. DispY[cm]=0.
                     DispPX=0.  DispPY=0.
-X[cm]=0             Y[cm]=0             Z[cm]=0             S[cm]=0             
-tetaX[deg]=0        tetaY[deg]=0        
+X[cm]=0             Y[cm]=0             Z[cm]=0             S[cm]=0
+tetaX[deg]=0        tetaY[deg]=0
 
 begin lattice. Number of periods=1
 
